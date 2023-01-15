@@ -1,6 +1,4 @@
-<p align="center">
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=83D821&height=300&section=header&text=Android%20Developer&fontAlignY=40&fontColor=ffffff&fontSize=90&desc=KEJ%20PROGRAMER&descSize=30&descAlign=80&descAlignY=63)
-</p>
 
 
 <p align="center">
@@ -26,7 +24,7 @@
 </p>
 <p align="center" display="inline-block">
     💡Android <br>
-    <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white">
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
 </p>
 <p align="center" display="inline-block">
     💡Backend <br>
@@ -34,6 +32,7 @@
 </p>
 <p align="center" display="inline-block">
     💡Tools <br>
+    <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white">
     <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"> 
 </p>
 <p align="center" display="inline-block">
