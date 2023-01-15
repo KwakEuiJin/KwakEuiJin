@@ -1,4 +1,6 @@
+<p align="center">
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=83D821&height=300&section=header&text=Android%20Developer&fontAlignY=40&fontColor=ffffff&fontSize=90&desc=KEJ%20PROGRAMER&descSize=30&descAlign=80&descAlignY=63)
+</p>
 
 
 <p align="center">
@@ -21,6 +23,10 @@
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
     <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> 
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+</p>
+<p align="center" display="inline-block">
+    💡Android <br>
+    <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white">
 </p>
 <p align="center" display="inline-block">
     💡Backend <br>
