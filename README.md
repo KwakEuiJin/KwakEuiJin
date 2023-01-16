@@ -26,8 +26,10 @@
 <br>
 
 <div align="start">
+    
 ![KwakEuiJin's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=KwakEuiJin&show_icons=true)     
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuijin)](https://solved.ac/yuijin/)
+
+    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuijin)](https://solved.ac/yuijin/)
     
 </div>
 
