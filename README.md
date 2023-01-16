@@ -23,7 +23,7 @@
 
 <div align="center">
     
-![KwakEuiJin's github stats](https://github-readme-stats.vercel.app/api?username=KwakEuiJin&show_icons=true)
+![KwakEuiJin's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=KwakEuiJin&show_icons=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuijin)](https://solved.ac/yuijin/)
     
 </div>
