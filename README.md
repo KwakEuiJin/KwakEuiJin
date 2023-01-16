@@ -19,6 +19,15 @@
 변화를 추구하는 개발자가 되고자 하는 주니어 개발자입니다.
 </p>
 
+<br>
+
+<div align="center">
+    
+![KwakEuiJin's github stats](https://github-readme-stats.vercel.app/api?username=KwakEuiJin&show_icons=true)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuijin)](https://solved.ac/yuijin/)
+    
+</div>
+
 
 
 --------------
@@ -68,6 +77,8 @@
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 </p>
 <br>
+
+
 
 
 
