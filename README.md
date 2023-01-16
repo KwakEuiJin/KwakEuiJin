@@ -9,6 +9,9 @@
 <Strong>📧Email📧</Strong><br>yuijin0909@gmail.com<br>
 </p>
 
+<br>
+
+
 <p align="center">
 안녕하세요🧑🏻‍💻<br>
 제 이름은 곽의진이고 안드로이드를 주로 공부하고 있어요!<br>
