@@ -82,14 +82,8 @@
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 </p>
 <br>
-<div style="display: flex; align-items: flex-start;">
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KwakEuiJin&repo=gdsc-dju-websites&theme=ayu-mirage&layout=compact)](https://github.com/GDSC-Daejin/gdsc-dju-websites)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KwakEuiJin&repo=design-seed&theme=ayu-mirage&layout=compact)](https://github.com/KwakEuiJinjin/design-seed)
-</div>
-<div style="display: flex; align-items: flex-start;">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=KwakEuiJin&show_icons=true&theme=ayu-mirage&layout=compact)
+[![Euijin's GitHub stats](https://github-readme-stats.vercel.app/api/?username=KwakEuiJin&show_icons=true&theme=ayu-mirage&layout=compact)
 ](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KwakEuiJin&theme=ayu-mirage&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Euijin's wakatime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KwakEuiJin&theme=ayu-mirage&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
