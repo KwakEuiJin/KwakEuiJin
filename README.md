@@ -25,7 +25,13 @@
 
 <br>
 
+
+
 <div align="center">
+
+[![Euijin's GitHub stats](https://github-readme-stats.vercel.app/api/?username=KwakEuiJin&show_icons=true&theme=ayu-mirage&layout=compact)
+](https://github.com/anuraghazra/github-readme-stats)
+[![Euijin's wakatime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KwakEuiJin&theme=ayu-mirage&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
     
 ![KwakEuiJin's github stats](https://github-readme-stats.vercel.app/api?username=KwakEuiJin&show_icons=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuijin)](https://solved.ac/yuijin/)
@@ -82,8 +88,3 @@
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 </p>
 <br>
-
-[![Euijin's GitHub stats](https://github-readme-stats.vercel.app/api/?username=KwakEuiJin&show_icons=true&theme=ayu-mirage&layout=compact)
-](https://github.com/anuraghazra/github-readme-stats)
-[![Euijin's wakatime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KwakEuiJin&theme=ayu-mirage&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
