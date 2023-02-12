@@ -25,8 +25,8 @@
 
 <div style="display: flex; align-items: flex-start;">
 
-[![Euijin's GitHub stats](https://github-readme-stats.vercel.app/api/?username=KwakEuiJin&show_icons=true&theme=ayu-mirage&layout=compact)]
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuijin)](https://solved.ac/yuijin/)]    
+![Euijin's GitHub stats](https://github-readme-stats.vercel.app/api/?username=KwakEuiJin&show_icons=true&theme=ayu-mirage&layout=compact)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuijin)](https://solved.ac/yuijin/)
 </div>
 
 
@@ -82,7 +82,7 @@
 
 <div align=center>	
 
-[![Euijin's wakatime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KwakEuiJin&theme=ayu-mirage&layout=compact)]
+![Euijin's wakatime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KwakEuiJin&theme=ayu-mirage&layout=compact)
 
 </div>
 
