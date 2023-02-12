@@ -12,10 +12,6 @@
 </p>
 <br>
 
-<div align=center>	
-
-</div>
-
 <p align="center">
 안녕하세요🧑🏻‍💻<br>
 제 이름은 곽의진이고 안드로이드를 주로 공부하고 있어요!<br>
@@ -30,9 +26,7 @@
 <div style="display: flex; align-items: flex-start;">
 
 [![Euijin's GitHub stats](https://github-readme-stats.vercel.app/api/?username=KwakEuiJin&show_icons=true&theme=ayu-mirage&layout=compact)]
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuijin)](https://solved.ac/yuijin/)]
-[![Euijin's wakatime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KwakEuiJin&theme=ayu-mirage&layout=compact)]
-    
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuijin)](https://solved.ac/yuijin/)]    
 </div>
 
 
@@ -85,3 +79,10 @@
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 </p>
 <br>
+
+<div align=center>	
+
+[![Euijin's wakatime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KwakEuiJin&theme=ayu-mirage&layout=compact)]
+
+</div>
+
