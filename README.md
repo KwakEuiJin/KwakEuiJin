@@ -75,10 +75,3 @@
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 </p>
 <br>
-
-<div align=center>	
-
-![Euijin's wakatime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KwakEuiJin&theme=ayu-mirage&layout=compact)
-
-</div>
-
