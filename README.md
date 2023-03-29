@@ -8,16 +8,6 @@
 <Strong>📧Email📧</Strong><br>yuijin0909@gmail.com<br>
 </p>
 <br>
-<br>
-
-
-<div align=center>	
-
-![Euijin's GitHub stats](https://github-readme-stats.vercel.app/api/?username=KwakEuiJin&show_icons=true&theme=ayu-mirage&layout=compact)
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuijin)
-</div>
-
-
 
 <p align="center">
     <Strong>⚒️Tech Stack⚒️</Strong><br>
