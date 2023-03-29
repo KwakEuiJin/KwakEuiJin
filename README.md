@@ -1,6 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=83D821&height=300&section=header&text=Android%20Developer&fontAlignY=40&fontColor=ffffff&fontSize=90&desc=KEJ%20PROGRAMER&descSize=30&descAlign=80&descAlignY=63)
-
-
 <p align="center">
     <Strong>☁️Portfolio List☁️</Strong><br><br>
     <a href="https://kwakeuijin-programing-study.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-535D6C?style=flat-square&logo=Tistory&logoColor=white"/></a>
@@ -11,16 +8,7 @@
 <Strong>📧Email📧</Strong><br>yuijin0909@gmail.com<br>
 </p>
 <br>
-
-<p align="center">
-안녕하세요🧑🏻‍💻<br>
-제 이름은 곽의진이고 안드로이드를 주로 공부하고 있어요!<br>
-꾸준한 노력을 통해 더욱 발전하는 Performance를 보여드리고 싶습니다.<br>
-변화를 추구하는 개발자가 되고자 하는 주니어 개발자입니다.
-</p>
-
 <br>
-
 
 
 <div align=center>	
@@ -30,9 +18,6 @@
 </div>
 
 
-
-
---------------
 
 <p align="center">
     <Strong>⚒️Tech Stack⚒️</Strong><br>
