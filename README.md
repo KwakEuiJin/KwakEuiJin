@@ -26,3 +26,19 @@
     <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"> 
 </p>
 <br>
+
+| <a href="https://github.com/KwakEuiJin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KwakEuiJin&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Euijin's github stats" /></a> | <a href="https://github.com/KwakEuiJin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KwakEuiJin&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+#### Top Repositories
+
+
+<a href="https://github.com/KwakEuiJin/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KwakEuiJin&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/KwakEuiJin/KwakEuiJin.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KwakEuiJin&repo=KwakEuiJin.github.io&theme=buefy" />
+</a>
+
+<br />
+<br />
