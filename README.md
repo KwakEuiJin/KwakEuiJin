@@ -33,5 +33,5 @@
 #### Top Repositories
 
 <a href="https://github.com/MYONGSIK/Android">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KwakEuiJin&repo=https://github.com/MYONGSIK/Android&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KwakEuiJin&repo=github-readme-stats&theme=buefy" />
 </a>
