@@ -32,13 +32,6 @@
 
 #### Top Repositories
 
-
-<a href="https://github.com/KwakEuiJin/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KwakEuiJin&repo=github-readme-stats&theme=buefy" />
-</a>
 <a href="https://github.com/KwakEuiJin/KwakEuiJin.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KwakEuiJin&repo=KwakEuiJin.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KwakEuiJin&repo=https://github.com/MYONGSIK/Android&theme=buefy" />
 </a>
-
-<br />
-<br />
