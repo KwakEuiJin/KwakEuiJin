@@ -35,3 +35,6 @@
 <a href="https://github.com/MYONGSIK/Android">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=MYONGSIK&repo=Android&theme=buefy" />
 </a>
+<a href="https://github.com/GO-SOPT-ANDROID/euijin-kwak">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=MYONGSIK&repo=Android&theme=buefy" />
+</a>
